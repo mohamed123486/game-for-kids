@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name" translatable="false">"اكتب اسمك "</string>
+    <string name="log">دخول</string>
+    <string name="hello">"مرحبا بك يا "</string>
+    <string name="finsh_level">انهاء المرحله الثانيه</string>
+    <string name="gret">رائع لقد فتحت المستوي الثالث انت رائع واصل التحدي</string>
+    <string name="Level1">"المستوي ١ "</string>
+    <string name="Level2">"المستوي ٢ "</string>
+    <string name="Level3">"المستوي ٣ "</string>
+    <string name="Level4">"المستوي ٤ "</string>
+    <string name="Level5">"المستوي ٥ "</string>
+    <string name="Level6">"المستوي ٦ "</string>
+    <string name="Level7">"المستوي ٧ "</string>
+    <string name="Level8">المستوي ٨ "</string>
+    <string name="Level9">"المستوي ٩ "</string>
+    <string name="Level10">"المستوي ١٠ "</string>
+    <string name="OK">موافق</string>
+    <string name="man">مرحبا بكم في اللعبه</string>
+</resources>
